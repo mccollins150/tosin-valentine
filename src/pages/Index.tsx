@@ -28,21 +28,20 @@ const Index = () => {
     return () => clearInterval(id);
   }, []);
 
-  const toggleAudio = () => {
-    if (!audioRef.current) {
-      audioRef.current = new Audio(
-        "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-      );
-      audioRef.current.loop = true;
-      audioRef.current.volume = 0.15;
-    }
-    if (playing) {
-      audioRef.current.pause();
-    } else {
-      audioRef.current.play().catch(() => {});
-    }
-    setPlaying(!playing);
-  };
+const toggleAudio = () => {
+  if (!audioRef.current) {
+    audioRef.current = new Audio("/audio/show-me-off.mp3");
+    audioRef.current.loop = true;
+    audioRef.current.volume = 0.15;
+  }
+  if (playing) {
+    audioRef.current.pause();
+  } else {
+    audioRef.current.play().catch(() => {});
+  }
+  setPlaying(!playing);
+};
+
 
   return (
     <div className="min-h-screen">
