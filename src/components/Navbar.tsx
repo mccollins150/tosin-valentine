@@ -8,8 +8,7 @@ const links = [
   { to: "/our-story", label: "Our Story" },
   { to: "/gallery", label: "Gallery" },
   { to: "/reasons", label: "50 Reasons" },
-  { to: "/catch-my-heart", label: "Mini Game" },
-  { to: "/promises", label: "Promises" },
+  { to: "/catch-my-heart", label: "Unlock My Heart 💖" },
   { to: "/secret", label: "🔒 Secret" },
 ];
 
@@ -21,7 +20,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="max-w-6xl mx-auto px-4 flex items-center justify-between h-14">
         <Link to="/" className="flex items-center gap-2 font-display text-xl text-primary">
-          <Heart className="w-5 h-5 fill-primary" /> Precious & I
+          <Heart className="w-5 h-5 fill-primary" /> Tosin & I
         </Link>
 
         {/* Desktop */}

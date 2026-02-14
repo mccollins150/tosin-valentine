@@ -87,7 +87,7 @@ const SecretPage = () => {
               <Heart className="w-16 h-16 text-primary fill-primary mx-auto mb-6" />
             </motion.div>
             <h1 className="text-3xl md:text-5xl font-display text-gradient-love leading-tight mb-6">
-              No matter where life takes us, I will always choose you, Precious ❤️
+              No matter where life takes us, I will always choose you, Tosin Oluleye ❤️
             </h1>
             <p className="text-muted-foreground font-body text-lg">
               You are my forever, my always, my everything. 💕
