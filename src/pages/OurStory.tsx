@@ -4,26 +4,26 @@ import { School, HeartCrack, RefreshCcw, Heart } from "lucide-react";
 const events = [
   {
     icon: School,
-    title: "We Fell in Love Before We Even Understood Love 🎒",
-    desc: "Back in secondary school, when everything was still innocent and uncertain, we found each other. We didn’t know what forever meant… we didn’t even understand what love truly was. But somehow, in the middle of that young and confusing world, my heart chose you first.",
+    title: "We Were Always in the Same Church ⛪",
+    desc: "For over two years, we worshipped in the same church, attended the same band, existed in the same space... yet we never really spoke. We never imagined that someday, our story would begin right there.",
     color: "bg-primary/10 text-primary",
   },
   {
-    icon: HeartCrack,
-    title: "And Then… We Let Go 💔",
-    desc: "Life happened. We grew, we changed, and eventually, we lost what we once had. We went our separate ways, pretending to be fine… but deep down, a part of me never stopped loving you, never stopped wondering what our story could have been if we just had another chance.",
+    icon: RefreshCcw,
+    title: "The Day Everything Changed 💫",
+    desc: "After I returned from my trip, you casually asked for my number after service. It felt like such a small moment at the time… but little did we know, that simple request was about to change everything between us.",
     color: "bg-secondary text-secondary-foreground",
   },
   {
-    icon: RefreshCcw,
-    title: "But Somehow, Love Found Its Way Back 🥺",
-    desc: "Years later, out of all the people in the world, life brought you back to me. And this time, it wasn’t puppy love… it was deeper, calmer, intentional. It felt like the universe paused, looked at both of us, and said — 'You deserve to try again, but this time, do it right.'",
+    icon: HeartCrack,
+    title: "From Strangers to Late-Night Calls 📱",
+    desc: "Even after exchanging numbers, we didn't think we would really vibe. But one conversation turned into another… and suddenly, hours on the phone started feeling like minutes. Every call made me realize just how special you were becoming to me.",
     color: "bg-accent text-accent-foreground",
   },
   {
     icon: Heart,
-    title: "2 Years 10 Months of Choosing You ❤️",
-    desc: "Today makes it 2 years and 10 months since we started again. It’s been a rollercoaster — not perfect, not always easy — but real. And through every misunderstanding, every laugh, every silent prayer, I have never regretted loving you… not even for a single day. If I had to live this life again, in every lifetime, I would still find my way back to you.",
+    title: "Five Days Later… Us ❤️",
+    desc: "In just five days, we went from 'just vibing' to something so real and beautiful. Since that week, loving you has been the easiest and most amazing part of my life. Every day since has been another chapter in the most beautiful story I've ever lived, and I can't wait to keep writing it with you.",
     color: "bg-primary/10 text-primary",
   },
 ];

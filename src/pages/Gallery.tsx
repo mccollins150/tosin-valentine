@@ -12,6 +12,19 @@ const photos = [
   { id: 6, src: "/images/precious3.jpg", caption: "You & Me 💗" },
   { id: 7, src: "/images/precious8.jpg", caption: "Forever grateful 🙏" },
   { id: 8, src: "/images/precious9.jpg", caption: "My whole world ❤️" },
+  { id: 9, src: "/images/precious10.jpg", caption: "My whole world ❤️" },
+  { id: 10, src: "/images/precious11.jpg", caption: "My whole world ❤️" },
+  { id: 11, src: "/images/precious12.jpg", caption: "My whole world ❤️" },
+  { id: 12, src: "/images/precious13.jpg", caption: "My whole world ❤️" },
+  { id: 13, src: "/images/precious14.jpg", caption: "My whole world ❤️" },
+  { id: 14, src: "/images/precious15.jpg", caption: "My whole world ❤️" },
+  { id: 15, src: "/images/precious16.jpg", caption: "My whole world ❤️" },
+  { id: 16, src: "/images/precious17.jpg", caption: "My whole world ❤️" },
+  { id: 17, src: "/images/precious18.jpg", caption: "My whole world ❤️" },
+  { id: 18, src: "/images/precious19.jpg", caption: "My whole world ❤️" },
+  { id: 19, src: "/images/precious20.jpg", caption: "My whole world ❤️" },
+  { id: 20, src: "/images/precious21.jpg", caption: "My whole world ❤️" },
+  { id: 21, src: "/images/precious22.jpg", caption: "My whole world ❤️" },
 ];
 
 const Gallery = () => {

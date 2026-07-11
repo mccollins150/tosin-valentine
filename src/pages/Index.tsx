@@ -14,7 +14,7 @@ const Index = () => {
 
   // Love counter
  useEffect(() => {
-  const start = new Date("2023-04-14T00:00:00").getTime();
+  const start = new Date("2026-01-23T00:00:00").getTime();
 
   const update = () => {
     const diff = Date.now() - start;
@@ -65,7 +65,7 @@ const toggleAudio = () => {
             ❤️
           </motion.div>
           <h1 className="text-4xl md:text-6xl font-display text-gradient-love leading-tight mb-6">
-            To the most beautiful girl in my world, Tosin Oluleye ❤️
+            To the most beautiful girl in my world, Precious ❤️
           </h1>
           <div className="text-lg md:text-xl text-muted-foreground font-body min-h-[60px] mb-8">
             <TypewriterText
@@ -117,7 +117,7 @@ const toggleAudio = () => {
             Our Love Counter 💕
           </h2>
           <p className="text-muted-foreground font-body mb-10">
-            Together since April, 2026
+            Together since January, 2026
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
